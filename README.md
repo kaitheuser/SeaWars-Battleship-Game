@@ -12,3 +12,5 @@ A simple, fun, and epic battleship game!
 ![Gameplay](./gameplay.png)
 ![Victory](./Victory.png)
 ![Defeat](./Defeat.png)
+
+## For Educational and Learning Purposes Only.
